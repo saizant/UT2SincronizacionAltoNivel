@@ -20,4 +20,9 @@ public class Cliente {
 		}
 		return this.tiempoFinal - this.tiempoInicial;
 	}
+
+	public int getId() {
+		// TODO Auto-generated method stub
+		return this.id;
+	}
 }
